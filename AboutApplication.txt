@@ -1,0 +1,8 @@
+
+Following below has been done practically. Works fine.
+1. Installation of ruby, rails, mysql and a sample CRUD application
+ 
+
+Ref:
+*****
+https://www.tutorialspoint.com/ruby/index.htm  { Click on the L.H.S of each topic links displayed. Did practically, works fine.}
